@@ -79,7 +79,7 @@ I have experience in programming, functional analysis, and databases, with proje
 
 ## 📫 Contact  
 <p align="left">
-  <a href="https://www.linkedin.com/in/santiago-wortley-319b912b1/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/santiagowortley/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/saNti.wortley?locale=es_LA" target="blank"><img align="center"
